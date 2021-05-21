@@ -1,0 +1,31 @@
+{
+  "accounts": [
+    {
+      "username": "Ada",
+      "password": "$2b$10$8TR44IqoQWQl4AKORAjTxuP6QCYa2b.WJ7bw7Hw5Ck1HNWQWxDRHq",
+      "email": "ada@lovelace.com",
+      "firstname": "Ada",
+      "lastname": "Lovelace",
+      "role": "user",
+      "id": "caRtTLIO-48PSNtcjqErm"
+    },
+    {
+      "username": "Ada2",
+      "password": "$2b$10$V8K3NQ/18SZYEKqP0VxTy.nOQ0yJ7icDGzPP1igSaU.Gc.RGsYwka",
+      "email": "test@test.se",
+      "firstname": "Ada",
+      "lastname": "Lovelace",
+      "role": "user",
+      "id": "O8rNCTGZgIJB6rboGjqfO"
+    },
+    {
+      "username": "test",
+      "password": "$2b$10$CYN81BHTTcT66wac7PsQWeOvI.kHkmBRgGripHs1fr8PGBBrQJFWS",
+      "email": "c@c.se",
+      "firstname": "Test",
+      "lastname": "Testsson",
+      "role": "user",
+      "id": "7gEenMttsljYBg_A9IFBM"
+    }
+  ]
+}
